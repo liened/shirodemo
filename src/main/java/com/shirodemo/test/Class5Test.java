@@ -147,6 +147,7 @@ public class Class5Test {
         login("classpath:class5/shiro-hashedCredentialsMatcher.ini","wu","123");
     }
 
+    //TODO false
     @Test
     public void testHashedCredentialsMatcherWithJdbcRealm(){
 //        BeanUtilsBean.getInstance().getConvertUtils().register(new EnumConverter(), JdbcRealm.SaltStyle.class);
