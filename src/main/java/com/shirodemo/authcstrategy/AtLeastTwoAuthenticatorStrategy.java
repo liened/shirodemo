@@ -11,7 +11,7 @@ import org.apache.shiro.util.CollectionUtils;
 import java.util.Collection;
 
 /**
- * Created by Administrator on 2017-9-15.
+ * 自定义AuthenticatorStrategy
  */
 public class AtLeastTwoAuthenticatorStrategy extends AbstractAuthenticationStrategy{
     public AtLeastTwoAuthenticatorStrategy() {
