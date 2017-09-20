@@ -9,7 +9,7 @@ import org.apache.shiro.subject.PrincipalCollection;
 import org.apache.shiro.util.ByteSource;
 
 /**
- * Created by Administrator on 2017-9-18.
+ * PasswordRealm2
  */
 public class PasswordRealm2 extends AuthorizerRealm{
 

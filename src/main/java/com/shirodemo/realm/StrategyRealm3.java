@@ -3,6 +3,9 @@ package com.shirodemo.realm;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.realm.Realm;
 
+/**
+ * StrategyRealm3
+ */
 public class StrategyRealm3 implements Realm{
     @Override
     public String getName() {

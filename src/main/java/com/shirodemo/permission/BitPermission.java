@@ -1,6 +1,5 @@
 package com.shirodemo.permission;
 
-import com.sun.tools.corba.se.idl.constExpr.Or;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.shiro.authz.Permission;
 

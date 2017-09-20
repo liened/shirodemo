@@ -4,6 +4,9 @@ package com.shirodemo.realm;
 import org.apache.shiro.authc.*;
 import org.apache.shiro.realm.Realm;
 
+/**
+ * StrategyRealm1
+ */
 public class StrategyRealm1 implements Realm {
 
     @Override

@@ -1,6 +1,5 @@
 package com.shirodemo.test;
 
-import org.apache.catalina.manager.util.SessionUtils;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.config.IniSecurityManagerFactory;

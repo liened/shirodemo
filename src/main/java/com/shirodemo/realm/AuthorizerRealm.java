@@ -8,7 +8,9 @@ import org.apache.shiro.authz.permission.WildcardPermission;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 
-
+/**
+ * 自定义AuthorizerRealm
+ */
 public class AuthorizerRealm extends AuthorizingRealm{
     @Override
     protected AuthorizationInfo doGetAuthorizationInfo(PrincipalCollection principals) {
